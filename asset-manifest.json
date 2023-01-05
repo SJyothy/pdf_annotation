@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf_annotation/static/css/main.485814af.css",
+    "main.js": "/pdf_annotation/static/js/main.14ed82f7.js",
+    "index.html": "/pdf_annotation/index.html",
+    "main.485814af.css.map": "/pdf_annotation/static/css/main.485814af.css.map",
+    "main.14ed82f7.js.map": "/pdf_annotation/static/js/main.14ed82f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485814af.css",
+    "static/js/main.14ed82f7.js"
+  ]
+}
